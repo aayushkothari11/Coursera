@@ -12,7 +12,7 @@ This repository contains my submissions for the various programming assignments 
 - [Week8](https://github.com/aayushkothari11/Coursera/tree/master/Machine%20Learning/week-8) : K-means Clustering and PCA
 - [Week9](https://github.com/aayushkothari11/Coursera/tree/master/Machine%20Learning/week-9) : Anomaly Detection and Recommender System
 
-# [Deep Learnign](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning)
+# [Deep Learning](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning)
 - Neural Nets and Deep Learning
   - [Week2](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Neural%20Nets%20and%20Deep%20Learning/week%202)
   - [Week3](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Neural%20Nets%20and%20Deep%20Learning/week%203)
@@ -22,3 +22,9 @@ This repository contains my submissions for the various programming assignments 
   - [Week1](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Improving%20Deep%20Neural%20Networks/week%201)
   - [Week2](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Improving%20Deep%20Neural%20Networks/week%202)
   - [Week3](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Improving%20Deep%20Neural%20Networks/week%203)
+
+- Convolutional Neural Networks
+  - [Week1](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Convolutional%20Neural%20Networks/week%201)
+  - [Week2](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Convolutional%20Neural%20Networks/week%202)
+  - [Week3](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Convolutional%20Neural%20Networks/week%203)
+  - [Week4](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Convolutional%20Neural%20Networks/week%204)
