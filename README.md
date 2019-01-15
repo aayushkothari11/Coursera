@@ -29,7 +29,7 @@ This repository contains my submissions for the various programming assignments 
   - [Week3](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Convolutional%20Neural%20Networks/week%203)
   - [Week4](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Convolutional%20Neural%20Networks/week%204)
 
-  - Sequence Models
-    - [Week1](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Sequence%20Models/week%201)
-    - [Week2](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Sequence%20Models/week%202)
-    - [Week3](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Sequence%20Models/week%203)
+- Sequence Models
+  - [Week1](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Sequence%20Models/week%201)
+  - [Week2](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Sequence%20Models/week%202)
+  - [Week3](https://github.com/aayushkothari11/Coursera/tree/master/Deep%20Learning/Sequence%20Models/week%203)
